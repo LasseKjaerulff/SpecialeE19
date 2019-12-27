@@ -1,6 +1,8 @@
 # Speciale om asylcentre og politisk adfærd
 Repositoriet indeholder materialer til replikation af resultater i speciale afleveret ved Institut for Statskundskab, Københavns Universitet i december 2019.
 
+`Visualisering_rigtig_v.2.R` kan først køres, hvis `data_samlet_udenFV19.RData` indlæses eller datasættet genereres med `Databehandling_rigtig_v.2.R`
+
 ### Indhold i repository
 `Asyl_FV2001-2019.xlsx:` Originalt datasæt om asylcentrenes placering
 
