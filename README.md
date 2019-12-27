@@ -1,5 +1,5 @@
 # Speciale om asylcentre og politisk adfærd
-Repositoriet indeholder materialer til replikation af resultater i speciale afleveret ved Institut for Statskundskab, Københavns Universitet i december 2019. Repositoriet gør det muligt for enhver med R installeret at genskabe specialets resultater.
+Repositoriet indeholder materialer til replikation af resultater i speciale afleveret ved Institut for Statskundskab, Københavns Universitet i december 2019. Repositoriet gør det muligt at genskabe specialets resultater i programmet R.
 
 `Visualisering_rigtig_v.2.R` kan først køres, hvis `data_samlet_udenFV19.RData` indlæses eller datasættet genereres med `Databehandling_rigtig_v.2.R`.
 
