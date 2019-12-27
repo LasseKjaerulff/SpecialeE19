@@ -10,7 +10,7 @@ Repositoriet indeholder materialer til replikation af resultater i speciale afle
 
 `Valgdata_2001_2015.xlsx:` Valgresultater på afstemningsområdeniveau
 
-`tilogfraflytning.xlsx:` Data om nettotilflytning i årene 2007, 2011 og 2015. Tilgængeligt på www.dannmarksstatistik.dk
+`tilogfraflytning.xlsx:` Data om nettotilflytning i årene 2007, 2011 og 2015. Tilgængeligt på www.dst.dk
 
 `Databehandling_rigtig_v.2.R:` Script til at generere datasættet. Samlet datasæt kan også findes i repositoriet
 
