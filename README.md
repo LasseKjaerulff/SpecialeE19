@@ -10,7 +10,7 @@ Repositoriet indeholder materialer til replikation af resultater i speciale afle
 
 `SIM_nøgletal.xlsx:` Baggrundsvariable om kommunerne. Tilgængeligt på www.noegletal.dk
 
-`Valgdata_2001_2015.xlsx:` Valgresultater på afstemningsområdeniveau
+`Valgdata_2001_2015.xlsx:` Valgresultater på afstemningsområdeniveau. Tilgængeligt på www.valgdatabase.dst.dk
 
 `tilogfraflytning.xlsx:` Data om nettotilflytning i årene 2007, 2011 og 2015. Tilgængeligt på www.dst.dk
 
